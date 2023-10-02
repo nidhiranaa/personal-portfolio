@@ -1,0 +1,45 @@
+.header{
+    height:55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top:0;
+    right:0;
+    left:0;
+    z-index:100;
+    position: fixed;
+    background-color: rgb(27, 21, 78);;
+
+}
+
+.middle-section{
+    display: flex;
+}
+
+.left-section div{
+    
+    margin-left: 13px;
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.logo-modify{
+    color: rgb(181, 228, 243);
+}
+
+.right-section img{
+    background-color: white;
+    width:20px;
+    padding: 2px 7px;
+    margin-top: 20px;
+    margin-right: 0;
+    margin-bottom: 65px;
+    
+}
+
+
+.sidebar{
+    padding-right: 20px;
+    padding-left: 20px;
+}
